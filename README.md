@@ -1,5 +1,6 @@
 # nixie-ESP32
 Arduino Nano ESP32 conversion of Great Scott's Nixie Tube clock
+![ESP32-nixie-1](https://github.com/user-attachments/assets/6b28f05c-871b-4171-8765-5b44897de5d7)
 
 Arduino Nano ESP32 sketches and interposer board design files to enable network connectivity on the Nixie Tube clock [as originally designed by Great Scott](https://www.youtube.com/watch?v=ObgmVNV1Kfg).
 
