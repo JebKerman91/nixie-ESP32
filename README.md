@@ -12,3 +12,6 @@ The power supply specifications of the Arduino Nano ESP32 recommend a voltage ra
 Two sketches are provided:
 * NixieTest_NanoESP32 cycles through the numbers 0 to 9 to test the correct functionality.
 * NixieClockWiFi_NanoESP32 is the sketch proper, with basic functionality but with NTP timesync.
+
+Important: the pin numbers are in the legacy GPIO numbering scheme, so the following setting *must* be used:
+![numbering-scheme](https://github.com/user-attachments/assets/f69a1739-e6cf-4456-aadd-01e066c65108)
